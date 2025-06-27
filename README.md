@@ -4,6 +4,21 @@
 This repository contains the **Usha E-Health Android application**, which has been developed and successfully released on the **Google Play Store** in both English and Bangla. The app provides users with a platform for monitoring and managing their health data. With over 1K downloads, the app has proven to be a useful tool for health-conscious individuals.
 
 The repository includes **images** that showcase the app’s interface and features. For the full experience, please visit the [Google Play Store](https://play.google.com/store/apps/details?id=com.usha.health) to download the app.
+## Screenshots
+
+<table>
+  <tr>
+    <th>Question/Recommendation Screen</th>
+    <th>Hospitals Nearby Feature</th>
+    <th>Symptom Tracker</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/afnancrystal/E-Health-App/blob/main/questions.jpg" height="250"></td>
+    <td><img src="https://github.com/afnancrystal/E-Health-App/blob/main/hospital.png" height="250"></td>
+    <td><img src="https://github.com/afnancrystal/E-Health-App/blob/main/symptom%20tracker.jpg" height="250"></td>
+  </tr>
+</table>
+
 
 ## Screenshots
 
