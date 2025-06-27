@@ -20,11 +20,7 @@ The repository includes **images** that showcase the app’s interface and featu
 </table>
 
 
-## Screenshots
 
-| Question/Recommendation Screen           | Hospitals Nearby Feature       | Symptom Tracker  |
-|-----------------------|----------------------|-----------------------|
-| ![Question/Recommendation Screen](https://github.com/afnancrystal/E-Health-App/blob/main/questions.jpg) | ![Hospitals Nearby Feature](https://github.com/afnancrystal/E-Health-App/blob/main/hospital.png) | ![Symptom Tracker](https://github.com/afnancrystal/E-Health-App/blob/main/symptom%20tracker.jpg) |
 
 ## Features
 - **E-health Monitoring**: Users can track various health parameters directly from their mobile device.
